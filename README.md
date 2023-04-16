@@ -18,7 +18,7 @@
 
 - 👀 I’m interested in Competitive Programming and Development.
 
-- 🌱 I’m currently learning Advance Java including Spring, Hibernate, SpringBoot.
+- 🌱 I’m currently learning Java with Data Structure and Algorithm & Java Script.
 
 - 💬 Ask me about stuff related to programming.
 
