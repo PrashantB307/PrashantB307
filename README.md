@@ -31,7 +31,7 @@ I am dedicated to telling stories with Computer Science. I am a geek enthusiast 
 
 **Languages and Tools:**
 - Programming - C, CPP & Java language. 
-- Web Development - Javascript, NodeJS, CSS, HTML
+- Web Development - Javascript, CSS, HTML
 
 Cheers,<br />
 Prashant Bhardwaj<br />
