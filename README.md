@@ -1,10 +1,10 @@
 # Hi there, I'm Prashant.👋
 
-<a href="https://www.linkedin.com/in/shivam-vishwakarma-150/">
-  <img align="left" alt="Prashant Kumar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a href="https://www.linkedin.com/in/prashantb307/">
+  <img align="left" alt="Prashant Bhardwaj - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="mailto:pb28.rkt@gmail.com">
-  <img align="left" alt="Prashant Kumar - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
+  <img align="left" alt="Prashant Bhardwaj - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 <a href="https://github.com/PrashantB307">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
@@ -34,7 +34,7 @@ I am dedicated to telling stories with Computer Science. I am a geek enthusiast 
 - Web Development - Javascript, NodeJS, CSS, HTML
 
 Cheers,<br />
-Prashanty<br />
+Prashant Bhardwaj<br />
 [PrashantB307](https://github.com/PrashantB307)
 
 <div align="center">
