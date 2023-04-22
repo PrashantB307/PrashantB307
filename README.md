@@ -14,6 +14,7 @@
 <br />
 <br />
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - This is the place where I opensource stuff and break things 🤣
 
 - 👀 I’m interested in Competitive Programming and Development.
@@ -25,8 +26,6 @@
 - 📫 How to reach me Mail : pb28.rkt@gmail.com
 
 - 😄 Call Me ==> Bhardwaj 
-
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and C++ Programming and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like Codeforces, Codechef etc.
 
