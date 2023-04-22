@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/54352598/178420933-0702e404-13a0-4459-8db4-691aee4a6f14.gif)]
 # Hi there, I'm Prashant.👋
 
 <a href="https://www.linkedin.com/in/prashantb307/">
