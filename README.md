@@ -1,4 +1,5 @@
 # Hi there, I'm Prashant.👋
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
 <a href="https://www.linkedin.com/in/prashantb307/">
   <img align="left" alt="Prashant Bhardwaj - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -11,6 +12,7 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=PrashantB307" alt="PrashantB307"/>
+
 <br>
 <br>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
