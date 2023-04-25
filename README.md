@@ -38,6 +38,7 @@
 Cheers,<br />
 Prashant Bhardwaj<br />
 [PrashantB307](https://github.com/PrashantB307)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact" alt="PrashantB307" /></p>
 
 <div align="center">
 
@@ -55,7 +56,7 @@ Prashant Bhardwaj<br />
   ### 🔥 Streak stats
   <hr/>
 
-<!-- GitHub Readme Streak Stats  -->
+GitHub Readme Streak Stats 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PrashantB307's streak" src="https://streak-stats.demolab.com/?user=PrashantB307&theme=monokai-metallian&hide_border=true"/>
@@ -87,7 +88,5 @@ Prashant Bhardwaj<br />
 
 <!-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) -->
 
--
 PrashantB307/PrashantB307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--
