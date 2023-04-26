@@ -1,5 +1,7 @@
 # Hi there, I'm Prashant.👋
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<!-- ![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif) -->
+<!-- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io) -->
 
 <a href="https://www.linkedin.com/in/prashantb307/">
   <img align="left" alt="Prashant Bhardwaj - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -15,7 +17,7 @@
 
 <br>
 <br>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - This is the place where I opensource stuff and break things 🤣
 
 - 👀 I’m interested in Competitive Programming and Development.
