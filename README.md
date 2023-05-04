@@ -40,6 +40,7 @@
 Cheers,<br />
 Prashant Bhardwaj<br />
 [PrashantB307](https://github.com/PrashantB307)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrashantB307" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact" alt="PrashantB307" /></p> -->
 <!--  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact" alt="PrashantB307" /></p> -->
 
