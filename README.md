@@ -34,8 +34,8 @@
 
 
 **Languages and Tools:**
-- Programming - C, CPP & Java language. 
-- Web Development - Javascript, CSS, HTML
+- Programming :- C, CPP & Java language. 
+- Web Development :- Javascript, CSS, HTML.
 
 Cheers,<br />
 Prashant Bhardwaj<br />
