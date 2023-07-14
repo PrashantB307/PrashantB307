@@ -22,7 +22,7 @@
 
 - 👀 I’m interested in Competitive Programming and Development.
 
-- 🌱 I’m currently learning Java with Data Structure and Algorithm & Node JS.
+- 🌱 I’m currently learning Java with Data Structure and Algorithm & Full Stack Development.
 
 - 💬 Ask me about stuff related to programming.
 
