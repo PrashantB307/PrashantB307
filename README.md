@@ -30,12 +30,16 @@
 
 - 😄 Call Me --><strong>Bhardwaj</strong>
 
-<br>I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and C++ Programming and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like Codeforces, Codechef etc.
+<br>I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and C++ Programming and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like GeekForGeeks, Leetcode, Codeforces, Codechef etc.
 
 
 **Languages and Tools:**
-- Programming :- C, CPP & Java language. 
-- Web Development :- Javascript, CSS, HTML.
+- Programming :- C, CPP , Python & Java language. 
+- Web Development :- Javascript, NodeJS, CSS, HTML.
+
+**Competitive Programming Profile:**
+- Leetcode - [PrashantB307](https://leetcode.com/PrashantB307)
+- GeekForGeeks - [PrashantB307](https://auth.geeksforgeeks.org/user/prashantb307)
 
 Cheers,<br />
 Prashant Bhardwaj<br />
