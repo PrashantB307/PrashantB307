@@ -4,10 +4,10 @@
  <!--[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io) -->
 
 <a href="https://www.linkedin.com/in/prashantb307/">
-  <img align="left" alt="Prashant Bhardwaj - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Prashant Kumar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="mailto:pb28.rkt@gmail.com">
-  <img align="left" alt="Prashant Bhardwaj - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
+  <img align="left" alt="Prashant Kumar - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 <a href="https://github.com/PrashantB307">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
@@ -15,8 +15,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=PrashantB307" alt="PrashantB307"/>
 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Friends!+👋;+Welcome+to+My+Repo!+✨✨;+I'm+Prashant+🧑🏼‍💻🧑🏼‍💻;+Come+and+Lets+Starts;+Explore+😁😁+New+Things" />
+</h1>
+
+
 <br>
-<br>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - This is the place where I opensource stuff and break things 🤣
 
@@ -29,20 +35,30 @@
 - 📫 How to reach me, My Mail : pb28.rkt@gmail.com
 
 - 😄 Call Me --><strong>Bhardwaj</strong>
+<br>
+
+<h1 align="center">
+    <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Something+About+Me](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=micro+5&duration=4000&pause=1000&color=0BF000&random=false&width=435&lines=This+is+Something+About+Me+%F0%9F%98%8A%F0%9F%98%8A;" />
+</h1>
 
 <br>I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and C++ Programming and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like GeekForGeeks, Leetcode, Codeforces, Codechef etc.
 
 
 **Languages and Tools:**
-- Programming :- C, CPP , Python & Java language. 
-- Web Development :- Javascript, NodeJS, CSS, HTML.
+- Programming :- Java, C, CPP and Python language. 
+- Web Development :- HTML, CSS and Java Script.
+- Backend :- Node Js.
+- Framework :-  React JS and Next JS.
+- DataBase :- SQL, MongoDB and Google FireBase.
+- Tools :- Git ans Github.
 
 **Competitive Programming Profile:**
  <!--- Leetcode - [PrashantB307](https://leetcode.com/PrashantB307) -->
 - GeekForGeeks - [PrashantB307](https://auth.geeksforgeeks.org/user/prashantb307)
+- Coding Ninjas - [PrashantB307](https://www.codingninjas.com/studio/profile/PrashantB307)
 
 Cheers,<br />
-Prashant Bhardwaj<br />
+Prashant Kumar<br />
 [PrashantB307](https://github.com/PrashantB307)
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrashantB307" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact" alt="PrashantB307" /></p> -->
@@ -50,7 +66,7 @@ Prashant Bhardwaj<br />
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
+### Show some ❤️ by Starring some of my Repositories!
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
