@@ -22,8 +22,8 @@
 
 
 <br>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 - This is the place where I opensource stuff and break things 🤣
 
 - 👀 I’m interested in Competitive Programming and Development.
@@ -43,7 +43,6 @@
 
 <br>I am dedicated to telling stories with Computer Science. I am a geek enthusiast trying to explore new technologies. I am experienced in Java and C++ Programming and Data Strutures. I am interested in algorithmic competitions and learning about new technologies and stuffs. In my spare time, I love to take part in competitive programming contests held on various online platforms like GeekForGeeks, Leetcode, Codeforces, Codechef etc.
 
-
 **Languages and Tools:**
 - Programming :- Java, C, CPP and Python language. 
 - Web Development :- HTML, CSS and Java Script.
@@ -60,8 +59,9 @@
 Cheers,<br />
 Prashant Kumar<br />
 [PrashantB307](https://github.com/PrashantB307)
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact&theme=dark" alt="PrashantB307" /></p>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact" alt="PrashantB307" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=7.6" alt="PrashantB307" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact&theme=" alt="PrashantB307" /></p>
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact" alt="PrashantB307" /></p> -->
 <!--  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrashantB307&show_icons=true&locale=en&layout=compact" alt="PrashantB307" /></p> -->
 
 <div align="center">
@@ -70,22 +70,37 @@ Prashant Kumar<br />
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PrashantB307's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrashantB307&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PrashantB307's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrashantB307&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a> -->
+  <img alt="PrashantB307's Github Stats" src="https://github-readme-stats-stp2003.vercel.app/api?username=PrashantB307&show_icons=true&theme=tokyonight&border_radius=7.6" height="192px"/>
+    
   <br/>
 
 </details>
 </div>
 
-  ### 🔥 Streak stats
-  <hr/>
+<!-- ### 🔥 Streak stats
+<hr/>
 
 GitHub Readme Streak Stats 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PrashantB307's streak" src="https://streak-stats.demolab.com/?user=PrashantB307&theme=monokai-metallian&hide_border=true"/>
   </a>
+</p> -->
+
+# 📊 GitHub Streak:
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PrashantB307's streak" src="https://streak-stats.demolab.com?user=PrashantB307&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89"/>
+  </a>
 </p>
+
+# 📊 GitHub Contribution Graph:
+[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrashantB307&theme=react-dark)](https://github.com/PrashantB307/github-readme-activity-graph)
+
+<br>
 
 ## ⚙ Languages and Tools:
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
