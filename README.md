@@ -10,7 +10,7 @@
   <img align="left" alt="Prashant Kumar - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 <a href="https://github.com/PrashantB307">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=PrashantB307" alt="PrashantB307"/>
