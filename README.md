@@ -52,7 +52,7 @@
 - Tools :- Git ans Github.
 
 **Competitive Programming Profile:**
- <!--- Leetcode - [PrashantB307](https://leetcode.com/PrashantB307) -->
+- Leetcode - [PrashantB307](https://leetcode.com/PrashantB307) 
 - GeekForGeeks - [PrashantB307](https://auth.geeksforgeeks.org/user/prashantb307)
 - Coding Ninjas - [PrashantB307](https://www.codingninjas.com/studio/profile/PrashantB307)
 
